@@ -39,5 +39,5 @@ Please visit [here](https://maven.apache.org/download.cgi) to download Maven pro
 
 License
 ----
-MIT
+[MIT](LICENSE)
 
