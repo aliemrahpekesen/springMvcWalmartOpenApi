@@ -16,9 +16,7 @@ Please visit [here](https://maven.apache.org/download.cgi) to download Maven pro
       $ mvn spring-boot:run
 
 ### Travis Integration (CI)
-[![Build Status](https://travis-ci.org/aliemrahpekesen/springMvcWalmartOpenApi
-.svg?branch=master)](https://travis-ci.org/aliemrahpekesen/springMvcWalmartOpenApi
-)
+[![Build Status](https://travis-ci.org/aliemrahpekesen/springMvcWalmartOpenApi.svg?branch=master)](https://travis-ci.org/aliemrahpekesen/springMvcWalmartOpenApi)
 
 ### Functions
 
