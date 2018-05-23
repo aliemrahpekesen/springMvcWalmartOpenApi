@@ -3,7 +3,7 @@
 This project is an example of Spring MVC with jsp. Spring-boot is used in project to keep it simple.
 
 ###  Pre-requisite : 
-Maven must be installed on your machine. Nothing else meeded!
+Maven must be installed on your machine. Nothing else needed!
 Please visit [here](https://maven.apache.org/download.cgi) to download Maven project if you need.
 
 ### How to install and run
